@@ -1,0 +1,50 @@
+
+div{
+  background-color: #E4f9f5;
+}
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+.top-container{
+  padding-top: 100px;
+}
+h1{
+
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.game-pic{
+  height: 200px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+
+}
+
+.picture1{
+  height: 150px;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 450px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+}
